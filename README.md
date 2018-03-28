@@ -1,5 +1,5 @@
 # About Me
-Hi! My name is Caitlyn Martyn. I am a sophomore at Lehigh University studying Journalism and Marketing. I am from Westchester, New York. I will be using this page to display my various projects created in my Visual Communication class. 
+Hi! My name is Caitlyn Martyn. I am a sophomore at Lehigh University studying Journalism, Marketing and Design. I am from Westchester, New York. I will be using this page to display my various projects created in my Visual Communication class. 
 I can be contacted through my [LinkedIn](https://www.linkedin.com/in/caitlynmartyn/).
 
 ![Me](https://github.com/cem220/cem220.github.io/blob/master/Screen%20Shot%202018-03-26%20at%204.34.46%20PM.png?raw=true)
@@ -17,3 +17,7 @@ Using information from WorldAtlas.com, I created an infographic depicting the to
 
 # Timeline of Rio Summer Oympics in 2016
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1LvbCgyl8TdXWWiFi7MSSuVplSlSLsqKWpzOYD4GEXSk&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+
+
+# Timeline of the History of Nail Polish
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1mYZYOmXuXdjGBppk6pwTexQsRNKnYQtNR8uoznMXx6U&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
