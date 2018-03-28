@@ -15,5 +15,5 @@ Using information provided by the Lehigh University Office of Institutional Rese
 Using information from WorldAtlas.com, I created an infographic depicting the top 5 most visited countries in the world. I used mini cameras to symbolize every ten million people. 
 
 
-# Time Line of Rio Summer Oympics in 2016
-<iframe src='https://cdn.knightlab.com/libs/timeline/latest/embed/?source=1cWqQBZCkX9GpzFtxCWHoqFXCHg-ylTVUWlnrdYMzKUI&font=Bevan-PotanoSans&maptype=toner&width=600&height=600' width='600' height='600' frameborder='0'></iframe>
+# Timeline of Rio Summer Oympics in 2016
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1LvbCgyl8TdXWWiFi7MSSuVplSlSLsqKWpzOYD4GEXSk&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
