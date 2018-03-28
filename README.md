@@ -13,3 +13,7 @@ Using information provided by the Lehigh University Office of Institutional Rese
 # The Most Visited Countries in the World
 ![Most Visited](https://github.com/cem220/cem220.github.io/blob/master/MostVisited.png?raw=true)
 Using information from WorldAtlas.com, I created an infographic depicting the top 5 most visited countries in the world. I used mini cameras to symbolize every ten million people. 
+
+
+# Time Line of Rio Summer Oympics in 2016
+<iframe src='https://cdn.knightlab.com/libs/timeline/latest/embed/?source=1cWqQBZCkX9GpzFtxCWHoqFXCHg-ylTVUWlnrdYMzKUI&font=Bevan-PotanoSans&maptype=toner&width=600&height=600' width='600' height='600' frameborder='0'></iframe>
