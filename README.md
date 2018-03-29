@@ -12,12 +12,17 @@ Using information provided by the Lehigh University Office of Institutional Rese
 
 # The Most Visited Countries in the World
 ![Most Visited](https://github.com/cem220/cem220.github.io/blob/master/MostVisited.png?raw=true)
-Using information from WorldAtlas.com, I created an infographic depicting the top 5 most visited countries in the world. I used mini cameras to symbolize every ten million people. 
+
+Using information from WorldAtlas.com, I created an infographic depicting the top 5 most visited countries in the world. I used mini cameras to symbolize every ten million people. I thought that this would make for an interesting infographic because I could use a vibrant image of one of the countries, making the reader's mind yearn for wanderlust and decide they want to travel.
 
 
 # Timeline of Rio Summer Oympics in 2016
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1LvbCgyl8TdXWWiFi7MSSuVplSlSLsqKWpzOYD4GEXSk&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
+Here is my practice run, using Timeline for the first time. In class, we were gien the topic of the Rio Olympics.
+
 
 # Timeline of the History of Nail Polish
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1mYZYOmXuXdjGBppk6pwTexQsRNKnYQtNR8uoznMXx6U&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+
+Here is my own personal timeline. I created this using various sources online, putting the history together. I picked this topic because I personally wear nail polish all the time and it is something I include in my life day to day. When we were asked to come up with a topic to research and then produce a timeline on our own, I instantly looked at my hands. Your hands are the first and pretty much  only part of your body that you can see at all times. I am always looking at my hands. So that being said, I love to have my nails painted because I think it looks more put together that way. I instantly dove into the topic of nail polish and learned some really interesting things, like warriors were the first to pioneer the idea of putting dye on your finger nails. Alhough I use nail polish for other reasons, it is cool to think that I am sharing something in common with Babylonian warriors that roamed this earth so long ago. 
