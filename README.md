@@ -26,3 +26,7 @@ Here is my practice run, using Timeline for the first time. In class, we were gi
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1mYZYOmXuXdjGBppk6pwTexQsRNKnYQtNR8uoznMXx6U&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 Here is my own personal timeline. I created this using various sources online, putting the history together. I picked this topic because I personally wear nail polish all the time and it is something I include in my life day to day. When we were asked to come up with a topic to research and then produce a timeline on our own, I instantly looked at my hands. Your hands are the first and pretty much  only part of your body that you can see at all times. I am always looking at my hands. So that being said, I love to have my nails painted because I think it looks more put together that way. I instantly dove into the topic of nail polish and learned some really interesting things, like warriors were the first to pioneer the idea of putting dye on your finger nails. Alhough I use nail polish for other reasons, it is cool to think that I am sharing something in common with Babylonian warriors that roamed this earth so long ago. 
+
+
+# Line Graph of Undergraduate Enrollment at Lehigh University Over Time
+![Undergrad](https://github.com/cem220/cem220.github.io/blob/master/Undergraduate_Enrollment,_1998-2017_Arts_&_Sciences_Business_Engineering_chartbuilder.png?raw=true)
