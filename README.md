@@ -11,7 +11,7 @@ Using information provided by the Lehigh University Office of Institutional Rese
 
 
 # The Most Visited Countries in the World
-![Most Visited](https://github.com/cem220/cem220.github.io/blob/master/MostVisited.png?raw=true)
+![Most Visited](https://github.com/cem220/cem220.github.io/blob/master/a%20valentine's%20celebration.png?raw=true)
 
 Using information from WorldAtlas.com, I created an infographic depicting the top 5 most visited countries in the world. I used mini cameras to symbolize every ten million people, every year. I thought that this would make for an interesting infographic because I could use a vibrant image of one of the countries, making the reader's mind yearn for wanderlust and decide they want to travel.
 
