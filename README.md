@@ -42,4 +42,4 @@ After using this information provided by the Office of Institutional Research at
 
 
 # Map of Art Establishments in Bethlehem
-![map one] <iframe width="500" height="300" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col0+from+1z4aGowseGrJs5kRQkY7_YU3UURw43sMa-RdNzrWv&amp;viz=MAP&amp;h=false&amp;lat=40.61110261598749&amp;lng=-75.37355379999997&amp;t=1&amp;z=14&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"></iframe>
+<iframe width="500" height="300" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col0+from+1z4aGowseGrJs5kRQkY7_YU3UURw43sMa-RdNzrWv&amp;viz=MAP&amp;h=false&amp;lat=40.61110261598749&amp;lng=-75.37355379999997&amp;t=1&amp;z=14&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"></iframe>
