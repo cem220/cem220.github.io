@@ -49,3 +49,4 @@ Bethlehem is a city filled with artsy establishments that allow for residents an
 
 # Map of Anthropologie Stores Across America
 This summer, I will be working at Anthropologie in the Westchester Mall as a Sales Associate. I am so excited to be working for the URBN company since it is so interesting to me. Here are all of the Anthropolgie locations in the U.S. There are some stores in Canada as well as the UK but I decided to focus on the United States. If you can look closer, you can see that Anthropologie stores are in higher-income areas and higher-end store complexes. 
+<iframe width="500" height="300" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col5+from+1SMI06wmnNtplgc0NVlhGddbsa-XN3eANdwVXMWS-&amp;viz=MAP&amp;h=false&amp;lat=40.52192878945358&amp;lng=-74.59061789062497&amp;t=1&amp;z=4&amp;l=col5&amp;y=2&amp;tmplt=2&amp;hml=TWO_COL_LAT_LNG"></iframe>
