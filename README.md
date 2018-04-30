@@ -6,6 +6,7 @@ I can be contacted through my [LinkedIn](https://www.linkedin.com/in/caitlynmart
 
 
 # A Comic About Me!
+![CaitlynsComic](https://github.com/cem220/cem220.github.io/blob/master/Screen%20Shot%202018-04-30%20at%2012.18.45%20PM.png?raw=true)
 
 
 # The Most Visited Countries in the World
