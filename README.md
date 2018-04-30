@@ -6,7 +6,7 @@ I can be contacted through my [LinkedIn](https://www.linkedin.com/in/caitlynmart
 
 
 # A Comic About Me!
-<iframe src="//www.pixton.com/embed/9cbo4p6p" frameborder="0" width="100%" height="384" allowfullscreen></iframe>
+
 
 # The Most Visited Countries in the World
 ![Most Visited](https://github.com/cem220/cem220.github.io/blob/master/a%20valentine's%20celebration.png?raw=true)
