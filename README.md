@@ -12,9 +12,11 @@ I can be contacted through my [LinkedIn](https://www.linkedin.com/in/caitlynmart
 # The Most Visited Countries in the World
 ![Most Visited](https://github.com/cem220/cem220.github.io/blob/master/a%20valentine's%20celebration.png?raw=true)
 
-Using information from WorldAtlas.com, I created an infographic depicting the top 5 most visited countries in the world. I used mini cameras to symbolize every ten million people, every year. I thought that this would make for an interesting infographic because I could use a vibrant image of one of the countries, making the reader's mind yearn for wanderlust and decide they want to travel. I personally love this image and topic. I love to travel and I want to travel to Italy next. 
+Using information from WorldAtlas.com, I created an infographic depicting the top 5 most visited countries in the world. I used mini cameras to symbolize every ten million people, every year. I thought that this would make for an interesting infographic because I could use a vibrant image of one of the countries, making the reader's mind yearn for wanderlust and decide they want to travel. I personally love this image and topic. I love to travel and I want to travel to Italy next.
 
-
+<iframe src='https://cdn.knightlab.com/libs/timeline/latest/embed/?source=1cWqQBZCkX9GpzFtxCWHoqFXCHg-ylTVUWlnrdYMzKUI&font=Bevan-PotanoSans&maptype=toner&width=600&height=600' width='600' height='600' frameborder='0'></iframe>
+                                
+                                
 # Timeline of the History of Nail Polish
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1mYZYOmXuXdjGBppk6pwTexQsRNKnYQtNR8uoznMXx6U&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
