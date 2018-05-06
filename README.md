@@ -2,7 +2,7 @@
 Hi! My name is Caitlyn Martyn. I am a sophomore at Lehigh University studying Journalism, Marketing and Design. I am from Westchester, New York. I will be using this page to display my various projects created in my Visual Communication class. 
 I can be contacted through my [LinkedIn](https://www.linkedin.com/in/caitlynmartyn/). I am very interested in beauty and travel. I focused a lot of my projects on different aspects of this over-arching theme. 
 
-![Me](https://github.com/cem220/cem220.github.io/blob/master/Screen%20Shot%202018-03-26%20at%204.34.46%20PM.png?raw=true)
+![Me](https://github.com/cem220/cem220.github.io/blob/master/31531152_2110579265877998_4136761157744590848_n.jpg?raw=true)
 
 
 # A Comic About Me!
